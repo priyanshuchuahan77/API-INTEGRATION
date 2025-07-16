@@ -23,3 +23,6 @@ This project showcases key skills in:
 *Responsive web design using media queries and flexible layout
 *Working with JSON data formats
 The same architecture can be extended to other public APIs such as news feeds, quotes, cryptocurrency prices, or COVID-19 stats. It forms a strong foundation for building more advanced web apps that rely on live, changing data.
+
+*OUTPUT
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/9db38203-f433-477e-b9d1-3e20ca0313f2" />
